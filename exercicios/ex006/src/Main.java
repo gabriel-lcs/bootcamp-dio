@@ -1,4 +1,4 @@
-// Exercício 6 - Escreva um código onde o usuário entra com sua altura e peso, seja feito o calculo so seu IMC e seja exibia a seguinte mensagem de acordo com resultado.
+// Exercício 6 - Escreva um código onde o usuário entra com sua altura e peso, seja feito o cálculo do seu IMC e seja exibido a seguinte mensagem de acordo com resultado.
 
 import java.util.Scanner;
 
